@@ -4,6 +4,8 @@ A web calculator for the 45 beam cases in the AISC *Steel Construction Manual*, 
 "Shears, Moments and Deflections", built with [Streamlit](https://streamlit.io).
 Pick a case, enter the loads and dimensions, and get a printable calculation sheet.
 
+**Live app: https://beam-formulas.streamlit.app/**
+
 ## Using it
 
 1. **Sidebar:** choose units (Imperial or Metric), then pick the case — either from the category and
